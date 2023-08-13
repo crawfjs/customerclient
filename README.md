@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 This is the client side of the customer manager web application. It's purpose is simple - to allow a user to manage a list of customers. The client communicates with a .NET Core backend via a RESTful API. The backend can be found here under the name customerapi in this GitHub account.
 
-[Screenshot](screenshot.jpg)
+![Screenshot](screenshot.jpg)
 
 ## Development server
 
