@@ -5,7 +5,7 @@
 .customer-listing {
     margin: 40px auto;
     max-width: 1024px;
-    mat-form-field {
+    .mat-form-field {
         width: 100%;
     }
 }
