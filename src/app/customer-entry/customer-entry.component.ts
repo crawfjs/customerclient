@@ -39,7 +39,7 @@ export class CustomerEntryComponent {
 
   onSave() {
     if (this.customerForm.valid) {
-      if (this.data && this.data.id) {
+      if (this.data?.id) {
         // Update
         this._customerService
           .updateCustomer({
